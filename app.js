@@ -1,5 +1,7 @@
 //owner of files sanket jadhav
 
+//school: California State Unversity San Bernardino
+
 const express = require('express');
 const path = require('path');
 const exphbs = require('express-handlebars');
